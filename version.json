@@ -1,0 +1,44 @@
+<services>
+  
+<service>
+    <name>ec-api</name>
+    <tpm>jason, geetika</tpm>
+    <team>platform</team>
+    <version>
+      <row>v5.16.0</row>
+      <roblox-stack>v5.16.0</roblox-stack>
+      <chime-stack>v5.16.0</chime-stack>
+      <boa>v5.16.0</boa>
+      <china>v5.16.0</china>
+      <japan>v5.16.0</japan>
+    </version>
+    <next-version>ec-api_v5.17.0</next-version>
+    <release-date>2/24/2022</release-date>
+    <existing-environments>
+      <development>true</development>
+      <staging>true</staging>
+      <production>true</production>
+    </existing-environments>
+  </service>
+ 
+<service>
+    <name>game3</name>
+    <tpm>jason, geetika</tpm>
+    <team>platform</team>
+    <version>
+      <row>13.26.0</row>
+      <roblox-stack>13.26.0</roblox-stack>
+      <chime-stack>13.26.0</chime-stack>
+      <boa>13.26.0</boa>
+      <china>13.26.0</china>
+      <japan>13.26.0</japan>
+    </version>
+    <next-version></next-version>
+    <release-date>2/24/2022</release-date>
+    <existing-environments>
+      <development>true</development>
+      <staging>true</staging>
+      <production>true</production>
+    </existing-environments>
+  </service>
+</services>
