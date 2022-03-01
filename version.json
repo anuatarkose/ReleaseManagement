@@ -1,6 +1,6 @@
 {
     "services": {
-      "service" : {
+      "service" : [{
         "name": "Device Intelligence",
         "tpm": "Anu Ganesan",
         "team": "Detect",
@@ -19,7 +19,7 @@
           "production": true
         }
       },
-        "service" : {
+        {
         "name": "Detection Hub",
         "tpm": "Anu Ganesan",
         "team": "Detect",
@@ -37,6 +37,6 @@
           "staging": true,
           "production": true
         }
-      }
+      }]
     }
 }
