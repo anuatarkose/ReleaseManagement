@@ -1,0 +1,722 @@
+<services>
+  
+<service>
+    <name>ec-api</name>
+    <tpm>jason, geetika</tpm>
+    <team>platform</team>
+    <version>
+      <row>v5.16.0</row>
+      <roblox-stack>v5.16.0</roblox-stack>
+      <chime-stack>v5.16.0</chime-stack>
+      <boa>v5.16.0</boa>
+      <china>v5.16.0</china>
+      <japan>v5.16.0</japan>
+    </version>
+    <next-version>ec-api_v5.17.0</next-version>
+    <release-date>2/24/2022</release-date>
+    <existing-environments>
+      <development>true</development>
+      <staging>true</staging>
+      <production>true</production>
+    </existing-environments>
+  </service>
+ 
+<service>
+    <name>game3</name>
+    <tpm>jason, geetika</tpm>
+    <team>EnforceCore</team>
+    <version>
+      <row>13.26.0</row>
+      <roblox-stack>13.26.0</roblox-stack>
+      <chime-stack>13.26.0</chime-stack>
+      <boa>13.26.0</boa>
+      <china>13.26.0</china>
+      <japan>13.26.0</japan>
+    </version>
+    <next-version></next-version>
+    <release-date>2/24/2022</release-date>
+    <existing-environments>
+      <development>true</development>
+      <staging>true</staging>
+      <production>true</production>
+    </existing-environments>
+  </service>
+
+ <service>
+    <name>audiogame</name>
+    <tpm>jason, geetika</tpm>
+    <team>EnforceCore</team>
+    <version>
+      <row>3.11.0</row>
+      <roblox-stack>3.11.0</roblox-stack>
+      <chime-stack>3.11.0</chime-stack>
+      <boa>3.11.0</boa>
+      <china>3.11.0</china>
+      <japan>3.11.0</japan>
+    </version>
+    <next-version></next-version>
+    <release-date>2/24/2022</release-date>
+    <existing-environments>
+      <development>true</development>
+      <staging>true</staging>
+      <production>true</production>
+    </existing-environments>
+  </service>
+
+ <service>
+    <name>matchgame</name>
+    <tpm></tpm>
+    <team>EnforceCore</team>
+    <version>
+      <row>0.20.0</row>
+      <roblox-stack></roblox-stack>
+      <chime-stack></chime-stack>
+      <boa></boa>
+      <china></china>
+      <japan></japan>
+    </version>
+    <next-version></next-version>
+    <release-date>2/24/2022</release-date>
+    <existing-environments>
+      <development>false</development>
+      <staging>fale</staging>
+      <production>false</production>
+    </existing-environments>
+  </service>
+
+ <service>
+    <name>lambdas-tile-game-get-image</name>
+    <tpm>jason, geetika</tpm>
+    <team>platform</team>
+    <version>
+      <row>v5.1.0</row>
+      <roblox-stack>v5.1.0</roblox-stack>
+      <chime-stack>v5.1.0</chime-stack>
+      <boa>v5.1.0</boa>
+      <china>v5.1.0</china>
+      <japan></japan>
+    </version>
+    <next-version></next-version>
+    <release-date>11/4/2021</release-date>
+    <existing-environments>
+      <development>false</development>
+      <staging>false</staging>
+      <production>false</production>
+    </existing-environments>
+  </service>
+
+<service>
+    <name>lambdas-tile-game-lite-mode</name>
+    <tpm>jason, geetika</tpm>
+    <team>platform</team>
+    <version>
+      <row>v9.17.0</row>
+      <roblox-stack>v9.12.1</roblox-stack>
+      <chime-stack>v9.12.1</chime-stack>
+      <boa>v9.12.1</boa>
+      <china>v9.12.1</china>
+      <japan></japan>
+    </version>
+    <next-version></next-version>
+    <release-date>2/24/2022</release-date>
+    <existing-environments>
+      <development>false</development>
+      <staging>false</staging>
+      <production>false</production>
+    </existing-environments>
+  </service>
+
+<service>
+    <name>lambdas-audio-game-endpoint</name>
+    <tpm>jason, geetika</tpm>
+    <team>platform</team>
+    <version>
+      <row>v5.1.0</row>
+      <roblox-stack>v5.1.0</roblox-stack>
+      <chime-stack>v5.1.0</chime-stack>
+      <boa>v5.1.0</boa>
+      <china>v5.1.0</china>
+      <japan></japan>
+    </version>
+    <next-version></next-version>
+    <release-date>11/4/2021</release-date>
+    <existing-environments>
+      <development>false</development>
+      <staging>false</staging>
+      <production>false</production>
+    </existing-environments>
+  </service>
+
+<service>
+    <name>etl-firehouse</name>
+    <tpm>jason, geetika</tpm>
+    <team>platform</team>
+    <version>
+      <row></row>
+      <roblox-stack></roblox-stack>
+      <chime-stack></chime-stack>
+      <boa></boa>
+      <china></china>
+      <japan></japan>
+    </version>
+    <next-version></next-version>
+    <release-date>11/11/2021</release-date>
+    <existing-environments>
+      <development>false</development>
+      <staging>false</staging>
+      <production>false</production>
+    </existing-environments>
+  </service>
+
+<service>
+    <name>TruthAPI-customer-bad-session-endpoint</name>
+    <tpm>jason, geetika</tpm>
+    <team>platform</team>
+    <version>
+      <row>v3.3.0</row>
+      <roblox-stack></roblox-stack>
+      <chime-stack></chime-stack>
+      <boa></boa>
+      <china></china>
+      <japan></japan>
+    </version>
+    <next-version></next-version>
+    <release-date>2/8/2022</release-date>
+    <existing-environments>
+      <development>false</development>
+      <staging>false</staging>
+      <production>false</production>
+    </existing-environments>
+  </service>
+
+<service>
+    <name>AudioGameFallback</name>
+    <tpm>jason, geetika</tpm>
+    <team>EnforceCore</team>
+    <version>
+      <row>v1.3.0</row>
+      <roblox-stack>v1.3.0</roblox-stack>
+      <chime-stack>v1.3.0</chime-stack>
+      <boa>v1.3.0</boa>
+      <china>v1.3.0</china>
+      <japan>v1.3.0</japan>
+    </version>
+    <next-version></next-version>
+    <release-date>1/17/2022</release-date>
+    <existing-environments>
+      <development>true</development>
+      <staging>true</staging>
+      <production>true</production>
+    </existing-environments>
+  </service>
+
+<service>
+    <name>Legacy-arkose-infrastructure</name>
+    <tpm>jason, geetika</tpm>
+    <team>Platform</team>
+    <version>
+      <row>Released changes for Automated Status Page</row>
+      <roblox-stack></roblox-stack>
+      <chime-stack></chime-stack>
+      <boa></boa>
+      <china></china>
+      <japan></japan>
+    </version>
+    <next-version></next-version>
+    <release-date>11/23/2021</release-date>
+    <existing-environments>
+      <development>false</development>
+      <staging>false</staging>
+      <production>false</production>
+    </existing-environments>
+  </service>
+
+<service>
+    <name>CloudflareWorkers-all-region</name>
+    <tpm>jason, geetika</tpm>
+    <team></team>
+    <version>
+      <row>v1.13.0</row>
+      <roblox-stack></roblox-stack>
+      <chime-stack></chime-stack>
+      <boa></boa>
+      <china></china>
+      <japan></japan>
+    </version>
+    <next-version></next-version>
+    <release-date>2/21/2022</release-date>
+    <existing-environments>
+      <development>false</development>
+      <staging>false</staging>
+      <production>false</production>
+    </existing-environments>
+  </service>
+
+<service>
+    <name>Data-ElasticSearch</name>
+    <tpm></tpm>
+    <team>Data</team>
+    <version>
+      <row></row>
+      <roblox-stack></roblox-stack>
+      <chime-stack></chime-stack>
+      <boa></boa>
+      <china></china>
+      <japan></japan>
+    </version>
+    <next-version></next-version>
+    <release-date></release-date>
+    <existing-environments>
+      <development>false</development>
+      <staging>false</staging>
+      <production>false</production>
+    </existing-environments>
+  </service>
+
+<service>
+    <name>Data-Athena</name>
+    <tpm></tpm>
+    <team>Data</team>
+    <version>
+      <row></row>
+      <roblox-stack></roblox-stack>
+      <chime-stack></chime-stack>
+      <boa></boa>
+      <china></china>
+      <japan></japan>
+    </version>
+    <next-version></next-version>
+    <release-date></release-date>
+    <existing-environments>
+      <development>false</development>
+      <staging>false</staging>
+      <production>false</production>
+    </existing-environments>
+  </service>
+
+<service>
+    <name>Data-DynamoDB</name>
+    <tpm></tpm>
+    <team>Data</team>
+    <version>
+      <row></row>
+      <roblox-stack></roblox-stack>
+      <chime-stack></chime-stack>
+      <boa></boa>
+      <china></china>
+      <japan></japan>
+    </version>
+    <next-version></next-version>
+    <release-date></release-date>
+    <existing-environments>
+      <development>false</development>
+      <staging>false</staging>
+      <production>false</production>
+    </existing-environments>
+  </service>
+
+<service>
+    <name>Data-Hydrolix</name>
+    <tpm></tpm>
+    <team>Data</team>
+    <version>
+      <row>v2.23.15</row>
+      <roblox-stack></roblox-stack>
+      <chime-stack></chime-stack>
+      <boa>v2.23.15</boa>
+      <china></china>
+      <japan></japan>
+    </version>
+    <next-version></next-version>
+    <release-date>1/18/2022</release-date>
+    <existing-environments>
+      <development>false</development>
+      <staging>false</staging>
+      <production>false</production>
+    </existing-environments>
+  </service>
+
+<service>
+    <name>ArkoseAdmin</name>
+    <tpm></tpm>
+    <team>ClientIntegration</team>
+    <version>
+      <row></row>
+      <roblox-stack></roblox-stack>
+      <chime-stack></chime-stack>
+      <boa>v2.6.0</boa>
+      <china></china>
+      <japan></japan>
+    </version>
+    <next-version></next-version>
+    <release-date></release-date>
+    <existing-environments>
+      <development>true</development>
+      <staging>false</staging>
+      <production>true</production>
+    </existing-environments>
+  </service>
+
+<service>
+    <name>ArkoseAdmin-Admin-API</name>
+    <tpm></tpm>
+    <team>ClientIntegration</team>
+    <version>
+      <row></row>
+      <roblox-stack></roblox-stack>
+      <chime-stack></chime-stack>
+      <boa>v2.4.0</boa>
+      <china></china>
+      <japan></japan>
+    </version>
+    <next-version></next-version>
+    <release-date></release-date>
+    <existing-environments>
+      <development>false</development>
+      <staging>false</staging>
+      <production>false</production>
+      <others>us-east-2</others>
+    </existing-environments>
+  </service>
+
+<service>
+    <name>ArkoseAdmin-Admin-UI</name>
+    <tpm></tpm>
+    <team>ClientIntegration</team>
+    <version>
+      <row></row>
+      <roblox-stack></roblox-stack>
+      <chime-stack></chime-stack>
+      <boa>v1.8.0</boa>
+      <china></china>
+      <japan></japan>
+    </version>
+    <next-version></next-version>
+    <release-date></release-date>
+    <existing-environments>
+      <development>false</development>
+      <staging>false</staging>
+      <production>false</production>
+      <others>us-east-2</others>
+    </existing-environments>
+  </service>
+
+<service>
+    <name>ArkoseAdmin-CAPI-BUILD-API</name>
+    <tpm></tpm>
+    <team>ClientIntegration</team>
+    <version>
+      <row></row>
+      <roblox-stack></roblox-stack>
+      <chime-stack></chime-stack>
+      <boa>v1.3.0</boa>
+      <china></china>
+      <japan></japan>
+    </version>
+    <next-version></next-version>
+    <release-date></release-date>
+    <existing-environments>
+      <development>false</development>
+      <staging>false</staging>
+      <production>false</production>
+      <others>ap-southeast-2</others>
+    </existing-environments>
+  </service>
+
+<service>
+    <name>ArkoseAdmin-CLIENT-API-CICD</name>
+    <tpm></tpm>
+    <team>ClientIntegration</team>
+    <version>
+      <row></row>
+      <roblox-stack></roblox-stack>
+      <chime-stack></chime-stack>
+      <boa>v3.7.0</boa>
+      <china></china>
+      <japan></japan>
+    </version>
+    <next-version></next-version>
+    <release-date></release-date>
+    <existing-environments>
+      <development>false</development>
+      <staging>false</staging>
+      <production>false</production>
+      <others>ap-southeast-2</others>
+    </existing-environments>
+  </service>
+
+<service>
+    <name>Accounts-API</name>
+    <tpm>Govind, Jason</tpm>
+    <team>ClientIntegration</team>
+    <version>
+      <row></row>
+      <roblox-stack></roblox-stack>
+      <chime-stack></chime-stack>
+      <boa>v2.7.0</boa>
+      <china></china>
+      <japan></japan>
+    </version>
+    <next-version></next-version>
+    <release-date>2/28/2022</release-date>
+    <existing-environments>
+      <development>true</development>
+      <staging>true</staging>
+      <production>true</production>
+    </existing-environments>
+  </service>
+
+<service>
+    <name>Client-API</name>
+    <tpm>Govind, Jason</tpm>
+    <team>ClientIntegration</team>
+    <version>
+      <row>v9.3.0</row>
+      <roblox-stack></roblox-stack>
+      <chime-stack></chime-stack>
+      <boa></boa>
+      <china></china>
+      <japan></japan>
+    </version>
+    <next-version></next-version>
+    <release-date>1/31/2022</release-date>
+    <existing-environments>
+      <development>true</development>
+      <staging>true</staging>
+      <production>true</production>
+    </existing-environments>
+  </service>
+
+<service>
+    <name>Customer-Dashboard</name>
+    <tpm></tpm>
+    <team>FalconPortal</team>
+    <version>
+      <row></row>
+      <roblox-stack></roblox-stack>
+      <chime-stack></chime-stack>
+      <boa>v3.13.0</boa>
+      <china></china>
+      <japan></japan>
+    </version>
+    <next-version></next-version>
+    <release-date>1/14/2022</release-date>
+    <existing-environments>
+      <development></development>
+      <staging></staging>
+      <production></production>
+    </existing-environments>
+  </service>
+
+<service>
+    <name>Customer-Potal-New-Portal-UI</name>
+    <tpm>Govind, Geetika</tpm>
+    <team>FalconPortal</team>
+    <version>
+      <row>v1.0.10</row>
+      <roblox-stack>v1.0.10</roblox-stack>
+      <chime-stack>v1.0.10</chime-stack>
+      <boa>v1.0.10</boa>
+      <china>v1.0.10</china>
+      <japan></japan>
+    </version>
+    <next-version></next-version>
+    <release-date>2/24/2022</release-date>
+    <existing-environments>
+      <development>true</development>
+      <staging>false</staging>
+      <production>true</production>
+    </existing-environments>
+  </service>
+
+<service>
+    <name>Customer-Potal-New-Data-API</name>
+    <tpm>Govind, Geetika</tpm>
+    <team>FalconPortal</team>
+    <version>
+      <row>v1.0.10</row>
+      <roblox-stack>v1.0.10</roblox-stack>
+      <chime-stack>v1.0.10</chime-stack>
+      <boa>v1.0.10</boa>
+      <china>v1.0.10</china>
+      <japan></japan>
+    </version>
+    <next-version></next-version>
+    <release-date>2/24/2022</release-date>
+    <existing-environments>
+      <development>true</development>
+      <staging>false</staging>
+      <production>true</production>
+    </existing-environments>
+  </service>
+
+<service>
+    <name>Customer-Potal-New-Customer-Portal-API</name>
+    <tpm>Govind, Geetika</tpm>
+    <team>FalconPortal</team>
+    <version>
+      <row>v1.0.12</row>
+      <roblox-stack>v1.0.12</roblox-stack>
+      <chime-stack>v1.0.12</chime-stack>
+      <boa>v1.0.12</boa>
+      <china>v1.0.12</china>
+      <japan></japan>
+    </version>
+    <next-version></next-version>
+    <release-date>2/24/2022</release-date>
+    <existing-environments>
+      <development>true</development>
+      <staging>false</staging>
+      <production>true</production>
+    </existing-environments>
+  </service>
+
+<service>
+    <name>SessionExplorer</name>
+    <tpm>Geetika</tpm>
+    <team>FalconPortal</team>
+    <version>
+      <row></row>
+      <roblox-stack></roblox-stack>
+      <chime-stack></chime-stack>
+      <boa>v1.1.0</boa>
+      <china></china>
+      <japan></japan>
+    </version>
+    <next-version></next-version>
+    <release-date>1/19/2022</release-date>
+    <existing-environments>
+      <development></development>
+      <staging></staging>
+      <production></production>
+    </existing-environments>
+  </service>
+
+<service>
+    <name>SessionExporter</name>
+    <tpm>Geetika</tpm>
+    <team>FalconPortal</team>
+    <version>
+      <row></row>
+      <roblox-stack></roblox-stack>
+      <chime-stack></chime-stack>
+      <boa>v1.2.0</boa>
+      <china></china>
+      <japan></japan>
+    </version>
+    <next-version></next-version>
+    <release-date>2/24/2022</release-date>
+    <existing-environments>
+      <development></development>
+      <staging></staging>
+      <production></production>
+    </existing-environments>
+  </service>
+
+<service>
+    <name>CustomerPortalTruthDataWorker</name>
+    <tpm>Geetika</tpm>
+    <team>FalconPortal</team>
+    <version>
+      <row></row>
+      <roblox-stack></roblox-stack>
+      <chime-stack></chime-stack>
+      <boa>v1.0.2</boa>
+      <china></china>
+      <japan></japan>
+    </version>
+    <next-version></next-version>
+    <release-date>2/10/2022</release-date>
+    <existing-environments>
+      <development></development>
+      <staging></staging>
+      <production></production>
+    </existing-environments>
+  </service>
+
+<service>
+    <name>CustomerPortalTruthDataWorker</name>
+    <tpm>Geetika</tpm>
+    <team>FalconPortal</team>
+    <version>
+      <row></row>
+      <roblox-stack></roblox-stack>
+      <chime-stack></chime-stack>
+      <boa>v1.0.0</boa>
+      <china></china>
+      <japan></japan>
+    </version>
+    <next-version></next-version>
+    <release-date>8/12/2021</release-date>
+    <existing-environments>
+      <development>true</development>
+      <staging></staging>
+      <production>true</production>
+    </existing-environments>
+  </service>
+
+<service>
+    <name>CustomerForensicTool</name>
+    <tpm>Geetika</tpm>
+    <team>FalconPortal</team>
+    <version>
+      <row></row>
+      <roblox-stack></roblox-stack>
+      <chime-stack></chime-stack>
+      <boa>v1.1.1</boa>
+      <china></china>
+      <japan></japan>
+    </version>
+    <next-version></next-version>
+    <release-date>10/15/2021</release-date>
+    <existing-environments>
+      <development>true</development>
+      <staging>true</staging>
+      <production>true</production>
+    </existing-environments>
+  </service>
+
+<service>
+    <name>DataSwan</name>
+    <tpm></tpm>
+    <team>CustomerSuccessOperations</team>
+    <version>
+      <row></row>
+      <roblox-stack></roblox-stack>
+      <chime-stack></chime-stack>
+      <boa>v0.15.6</boa>
+      <china></china>
+      <japan></japan>
+    </version>
+    <next-version></next-version>
+    <release-date>8/19/2021</release-date>
+    <existing-environments>
+      <development></development>
+      <staging></staging>
+      <production></production>
+    </existing-environments>
+  </service>
+
+<service>
+    <name>RealTimeImageGeneration</name>
+    <tpm></tpm>
+    <team>EnforceCore</team>
+    <version>
+      <row>v1.1.0</row>
+      <roblox-stack></roblox-stack>
+      <chime-stack></chime-stack>
+      <boa></boa>
+      <china></china>
+      <japan>v1.1.0</japan>
+    </version>
+    <next-version></next-version>
+    <release-date>2/28/2022</release-date>
+    <existing-environments>
+      <development>true</development>
+      <staging>true</staging>
+      <production>true</production>
+    </existing-environments>
+  </service>
+
+
+</services>
