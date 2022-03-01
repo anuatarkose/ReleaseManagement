@@ -18,6 +18,25 @@
           "staging": true,
           "production": true
         }
+      },
+        "service" : {
+        "name": "Detection Hub",
+        "tpm": "Anu Ganesan",
+        "team": "Detect",
+        "version": {
+          "row": "v1.1.3.2",
+          "roblox-stack": "",
+          "chime-stack": "",
+          "boa": "Not Enabled",
+          "china": "Not Deployed",
+          "japan": "Not Deployed"
+        },
+      "release-date": "2/4/2022",
+      "existing-environments": {
+          "development": true,
+          "staging": true,
+          "production": true
+        }
       }
     }
 }
